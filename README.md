@@ -88,16 +88,6 @@ Research Papers
 
 ---
 
-# Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧠 **Transfer Learning Framework for Early Alzheimer's Prediction** | MRI-based deep learning framework for early Alzheimer's disease prediction using transfer learning. |
-| ✈️ **Airline Sentiment Analysis Pipeline** | End-to-end NLP pipeline deployed on Hugging Face for airline review sentiment analysis. |
-| 🌐 **Personal AI Portfolio** | Premium Next.js portfolio featuring MDX, animations, GitHub integration and CMS-ready architecture. |
-
----
-
 # Technology Stack
 
 <div align="center">
@@ -137,15 +127,14 @@ Always exploring, experimenting and improving.
 
 # Certifications
 
-🏅 IBM Data Science Professional Certificate
-
-🏅 Machine Learning Specialization
-
-🏅 Mathematics for Machine Learning Specialization
+🏅 Python Project for Data Science
 
 🏅 Python for Data Science, AI & Development
 
-🏅 Object-Oriented Programming in Java Specialization
+🏅 Databases and SQL for Data Science with Python
+
+🏅 Data Analysis with Python
+
 
 ---
 
