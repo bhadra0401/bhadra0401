@@ -37,8 +37,6 @@
 
 Bachelor of Technology in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 
-<br>
-
 <img src="https://img.shields.io/badge/Focus-000000?style=flat-square&logo=openai&logoColor=white" />
 
 Interested in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI.
@@ -94,18 +92,28 @@ Exploring modern AI architectures, research papers, model optimization technique
 
 ---
 
-# Learning Journey
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" /> Learning & Research Areas
 
-```text
-Programming             ████████████████████
-Machine Learning        ██████████████████
-Deep Learning           ███████████████
-Computer Vision         █████████████
-Natural Language Proc.  █████████████
-Generative AI           ███████████
-```
+<div align="center">
 
-Always exploring, experimenting and improving.
+| Domain | Technologies |
+|:-------|:-------------|
+| **Machine Learning** | Scikit-learn · XGBoost · Regression · Classification · Clustering |
+| **Deep Learning** | TensorFlow · Keras · CNNs · Transfer Learning |
+| **Computer Vision** | OpenCV · Image Processing · Medical Image Analysis |
+| **Natural Language Processing** | Transformers · Hugging Face · Sentiment Analysis · Text Classification |
+| **Generative AI** | LLMs · Prompt Engineering · Retrieval-Augmented Generation (RAG) |
+| **Programming** | Python · Java · SQL |
+| **Databases** | MySQL · MongoDB |
+| **Developer Tools** | Git · GitHub · VS Code · Jupyter Notebook |
+
+</div>
+
+<div align="center">
+
+*Continuously exploring modern AI techniques through hands-on projects, technical documentation, and research literature.*
+
+</div>
 
 ---
 
