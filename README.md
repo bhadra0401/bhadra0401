@@ -2,19 +2,25 @@
 
 # Naga Veera Bhadra Kumar Akkala
 
-### AI Research Engineer • Machine Learning Engineer • Deep Learning • Computer Vision • NLP
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Research+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Learner;Natural+Language+Processing;Generative+AI+Developer;Always+Learning..." alt="Typing SVG" />
 
-Building intelligent systems using Deep Learning, Large Language Models, Computer Vision and Generative AI.
+<br>
 
-[Portfolio](YOUR_PORTFOLIO)
-•
-[LinkedIn](YOUR_LINKEDIN)
-•
-[HuggingFace](YOUR_HUGGINGFACE)
-•
-[Google Scholar](YOUR_SCHOLAR_IF_ANY)
-•
-[Resume](YOUR_RESUME)
+<a href="https://github.com/bhadra0401">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhadra0401&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+</a>
+
+<a href="https://github.com/bhadra0401">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadra0401&layout=compact&theme=transparent&hide_border=true"/>
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=bhadra0401&theme=transparent&hide_border=true"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=bhadra0401&style=flat-square&color=grey)
 
 </div>
 
@@ -22,209 +28,181 @@ Building intelligent systems using Deep Learning, Large Language Models, Compute
 
 # About Me
 
-I am an aspiring AI Research Engineer passionate about developing scalable machine learning systems and conducting applied AI research.
+<table>
+<tr>
+<td>
 
-My interests include
+🎓 B.Tech in Computer Science Engineering (AI & ML)
 
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- AI Agents
-- MLOps
+🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and NLP
 
-Currently focusing on
+🔬 Building practical AI systems through research, experimentation and real-world projects
 
-- Vision Transformers
-- RAG Systems
-- LLM Fine-tuning
-- Multi-Agent Systems
-- Medical AI
+📖 Constantly learning modern AI architectures, research papers and production workflows
+
+🚀 Goal: Become an AI Research Engineer contributing to impactful intelligent systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Tech Stack
+# Current Focus
 
-### Languages
+<table>
+<tr>
 
-Python • Java • SQL
-
-### Machine Learning
-
-Scikit-Learn
-
-TensorFlow
-
-PyTorch
-
-XGBoost
-
-LightGBM
-
-### Deep Learning
-
-TensorFlow
-
-Keras
-
-PyTorch
-
-CNN
-
+<td align="center">
+🧠<br>
 Transfer Learning
+</td>
 
-Transformers
+<td align="center">
+🤖<br>
+Large Language Models
+</td>
 
-### NLP
+<td align="center">
+👁️<br>
+Computer Vision
+</td>
 
-Transformers
+<td align="center">
+💬<br>
+Natural Language Processing
+</td>
 
-Hugging Face
+<td align="center">
+⚡<br>
+Generative AI
+</td>
 
-spaCy
+<td align="center">
+📚<br>
+Research Papers
+</td>
 
-NLTK
-
-Sentence Transformers
-
-### Computer Vision
-
-OpenCV
-
-YOLO
-
-Albumentations
-
-CNN
-
-Vision Transformers
-
-### Databases
-
-MySQL
-
-MongoDB
-
-SQLite
-
-### Tools
-
-Git
-
-GitHub
-
-Docker
-
-VS Code
-
-Jupyter
-
-Google Colab
-
-Linux
+</tr>
+</table>
 
 ---
 
 # Featured Projects
 
-### Alzheimer's Disease Prediction using Transfer Learning
-
-Deep learning framework for early Alzheimer's prediction from MRI scans.
-
-**Tech**
-
-TensorFlow
-
-CNN
-
-Transfer Learning
-
-GradCAM
-
-MRI Imaging
+| Project | Description |
+|---------|-------------|
+| 🧠 **Transfer Learning Framework for Early Alzheimer's Prediction** | MRI-based deep learning framework for early Alzheimer's disease prediction using transfer learning. |
+| ✈️ **Airline Sentiment Analysis Pipeline** | End-to-end NLP pipeline deployed on Hugging Face for airline review sentiment analysis. |
+| 🌐 **Personal AI Portfolio** | Premium Next.js portfolio featuring MDX, animations, GitHub integration and CMS-ready architecture. |
 
 ---
 
-### Airline Sentiment Analysis
+# Technology Stack
 
-Production-ready NLP pipeline with Hugging Face deployment.
+<div align="center">
 
-**Tech**
+### Programming
 
-Transformers
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb" />
 
-BERT
+### Machine Learning & AI
 
-RoBERTa
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-Gradio
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy" />
 
-Hugging Face
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+
+</div>
 
 ---
 
-### (Future)
+# Learning Journey
 
-Enterprise Agentic RAG Platform
+```text
+Programming             ████████████████████
+Machine Learning        ██████████████████
+Deep Learning           ███████████████
+Computer Vision         █████████████
+Natural Language Proc.  █████████████
+Generative AI           ███████████
+```
 
-Coming Soon
+Always exploring, experimenting and improving.
 
 ---
 
 # Certifications
 
-- IBM Data Science Professional Certificate
-- Machine Learning Specialization
-- Mathematics for Machine Learning
-- Python for Data Science AI & Development
-- Java OOP Specialization
+🏅 IBM Data Science Professional Certificate
+
+🏅 Machine Learning Specialization
+
+🏅 Mathematics for Machine Learning Specialization
+
+🏅 Python for Data Science, AI & Development
+
+🏅 Object-Oriented Programming in Java Specialization
 
 ---
 
 # Competitive Programming
 
-- LeetCode
-- Data Structures & Algorithms
-- Problem Solving
+<div align="center">
+
+<a href="https://leetcode.com/u/pro_boy_bhadra/">
+<img src="https://leetcard.jacoblin.cool/pro_boy_bhadra?theme=dark&font=Inter&ext=heatmap"/>
+</a>
+
+</div>
 
 ---
 
-# GitHub Statistics
+# GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhadra0401&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhadra0401&theme=github-compact&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadra0401&layout=compact&theme=transparent"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+# Connect With Me
 
-<img src="https://streak-stats.demolab.com?user=bhadra0401&theme=transparent"/>
+<div align="center">
 
-</p>
+<a href="https://myportfolio-one-rouge-79.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nagaveerabhadrakumarakkala">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/bhadra0401">
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+<a href="mailto:bhadrakumar.akkala@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/pro_boy_bhadra/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhadra0401&theme=github-compact"/>
+### "Learning today. Building tomorrow."
 
-</p>
+<img src="https://raw.githubusercontent.com/bhadra0401/bhadra0401/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
----
-
-# Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_HUGGINGFACE">Hugging Face</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-
-</p>
+</div>
