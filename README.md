@@ -26,7 +26,7 @@
 
 ---
 
-```markdown
+
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" /> About Me
 
 <table>
@@ -72,7 +72,7 @@ Exploring modern AI architectures, research papers, model optimization technique
 |:--:|:--:|:--:|
 
 </div>
-```
+
 
 ---
 
