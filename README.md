@@ -43,13 +43,10 @@ Bachelor of Technology in Computer Science Engineering (Artificial Intelligence 
 
 Interested in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI.
 
-<br>
-
 <img src="https://img.shields.io/badge/Experience-000000?style=flat-square&logo=tensorflow&logoColor=white" />
 
 Building AI applications through academic projects, experimentation, and hands-on implementation.
 
-<br>
 
 <img src="https://img.shields.io/badge/Learning-000000?style=flat-square&logo=arxiv&logoColor=white" />
 
@@ -68,7 +65,6 @@ Exploring modern AI architectures, research papers, model optimization technique
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28"/><br>Transfer Learning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28"/><br>Large Language Models | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="28"/><br>Computer Vision |
 |:--:|:--:|:--:|
 
-|:--:|:--:|:--:|
 
 </div>
 
