@@ -98,11 +98,11 @@ Exploring modern AI architectures, research papers, model optimization technique
 
 | Domain | Technologies |
 |:-------|:-------------|
-| **Machine Learning** | Scikit-learn · XGBoost · Regression · Classification · Clustering |
+| **Machine Learning** | Scikit-learn · Regression · Classification · Clustering |
 | **Deep Learning** | TensorFlow · Keras · CNNs · Transfer Learning |
-| **Computer Vision** | OpenCV · Image Processing · Medical Image Analysis |
+| **Computer Vision** |  Image Processing · Medical Image Analysis |
 | **Natural Language Processing** | Transformers · Hugging Face · Sentiment Analysis · Text Classification |
-| **Generative AI** | LLMs · Prompt Engineering · Retrieval-Augmented Generation (RAG) |
+| **Generative AI** | LLMs ·  |
 | **Programming** | Python · Java · SQL |
 | **Databases** | MySQL · MongoDB |
 | **Developer Tools** | Git · GitHub · VS Code · Jupyter Notebook |
@@ -114,31 +114,7 @@ Exploring modern AI architectures, research papers, model optimization technique
 *Continuously exploring modern AI techniques through hands-on projects, technical documentation, and research literature.*
 
 </div>
----
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" /> Areas of Interest
 
-<div align="center">
-
-| AI & Machine Learning | Computer Vision | NLP | Generative AI |
-|:--------------------:|:---------------:|:---:|:-------------:|
-| Scikit-learn | OpenCV | Transformers | Large Language Models |
-| TensorFlow | CNNs | Hugging Face | Prompt Engineering |
-| Transfer Learning | Medical Imaging | Sentiment Analysis | RAG |
-| Model Evaluation | Feature Extraction | Text Classification | AI Workflows |
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Programming** • Python • Java • SQL
-
-**Databases** • MySQL • MongoDB
-
-**Developer Tools** • Git • GitHub • VS Code • Jupyter Notebook
-
-</div>
 ---
 
 # Certifications
