@@ -114,7 +114,31 @@ Exploring modern AI architectures, research papers, model optimization technique
 *Continuously exploring modern AI techniques through hands-on projects, technical documentation, and research literature.*
 
 </div>
+---
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" /> Areas of Interest
 
+<div align="center">
+
+| AI & Machine Learning | Computer Vision | NLP | Generative AI |
+|:--------------------:|:---------------:|:---:|:-------------:|
+| Scikit-learn | OpenCV | Transformers | Large Language Models |
+| TensorFlow | CNNs | Hugging Face | Prompt Engineering |
+| Transfer Learning | Medical Imaging | Sentiment Analysis | RAG |
+| Model Evaluation | Feature Extraction | Text Classification | AI Workflows |
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Programming** • Python • Java • SQL
+
+**Databases** • MySQL • MongoDB
+
+**Developer Tools** • Git • GitHub • VS Code • Jupyter Notebook
+
+</div>
 ---
 
 # Certifications
