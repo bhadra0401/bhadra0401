@@ -182,8 +182,21 @@ Exploring modern AI architectures, research papers, model optimization technique
 
 <div align="center">
 
-### "Learning today. Building tomorrow."
+### Learning today. Building tomorrow.
 
-<img src="https://raw.githubusercontent.com/bhadra0401/bhadra0401/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bhadra0401/bhadra0401/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bhadra0401/bhadra0401/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/bhadra0401/bhadra0401/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 </div>
