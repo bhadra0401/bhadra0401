@@ -26,25 +26,53 @@
 
 ---
 
-# About Me
+```markdown
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" /> About Me
 
 <table>
 <tr>
 <td>
 
-🎓 B.Tech in Computer Science Engineering (AI & ML)
+<img src="https://img.shields.io/badge/Education-000000?style=flat-square&logo=academia&logoColor=white" />
 
-🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and NLP
+Bachelor of Technology in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 
-🔬 Building practical AI systems through research, experimentation and real-world projects
+<br><br>
 
-📖 Constantly learning modern AI architectures, research papers and production workflows
+<img src="https://img.shields.io/badge/Focus-000000?style=flat-square&logo=openai&logoColor=white" />
 
-🚀 Goal: Become an AI Research Engineer contributing to impactful intelligent systems
+Interested in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Experience-000000?style=flat-square&logo=tensorflow&logoColor=white" />
+
+Building AI applications through academic projects, experimentation, and hands-on implementation.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Learning-000000?style=flat-square&logo=arxiv&logoColor=white" />
+
+Exploring modern AI architectures, research papers, model optimization techniques, and production-ready workflows.
 
 </td>
 </tr>
 </table>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="22" /> Current Focus
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28"/><br>Transfer Learning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28"/><br>Large Language Models | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="28"/><br>Computer Vision |
+|:--:|:--:|:--:|
+
+| <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="28"/><br>Natural Language Processing | <img src="https://cdn.simpleicons.org/openai/ffffff" width="28"/><br>Generative AI | <img src="https://cdn.simpleicons.org/arxiv/ffffff" width="28"/><br>AI Research Papers |
+|:--:|:--:|:--:|
+
+</div>
+```
 
 ---
 
